@@ -1,0 +1,2 @@
+# Spotprisprognose
+Spotprisprognoser
