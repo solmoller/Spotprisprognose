@@ -5,6 +5,8 @@ Bemærk, at der kun offentliggøres én spotprisprognose for Danmark. Prognosen 
 
 Al anvendelse er på egen regning og risiko.
 
+Husk at følge facebook.com/elforbrug, den her leveringsmetode er midlertidig, og ændringer vil blive annonceret her, og på Facebook siden
+
 Alt materiale offentliggjort på denne hjemmeside er gratis til ikke-kommerciel brug for forbrugere.
 
 Al videredistribution, kommerciel anvendelse eller forædling af prognoserne er ikke tilladt, og vil blive mødt med søgsmål.
