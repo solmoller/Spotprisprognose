@@ -5,6 +5,8 @@ Gratis spotprisprognoser, så du kan optimere dit elforbrug. Daglige kommentarer
 
 Pas på med prognosen for  Østdanmark, flaskehalsen flytter sig af og til fra Øresund til Storebælt, så priserne kan jævnligt være lavere end prognosen siger for Østdanmark. Det betyder modelteknisk, at prognosen i snit passer: Den rammer lidt lavere i hverdagen, og så alt for højt, når flaskehalsen peger på Storebælt.
 
+Priserne er opgjort i €/MWh
+
 Du kan hente dagens prognose her på Github hver dag kl ca 14:30 fremover. Det betyder også, at man nu kan se hvilke priser det er, jeg ser i prognoserne. Det skal man endelig ikke hænge sig i. Mine prognoser er lavet for at finde minima, ikke for at finde de præcise priser. Prognosen er for Vest, men generelt er der dog en sammenhæng, så hvis man jagter minima i DK1 så er der minima i DK2 samtidigt, det er bare et betydeligt bedre minimum i DK2. 
 
 Al anvendelse er på egen regning og risiko.
